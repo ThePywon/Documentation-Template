@@ -9,9 +9,9 @@
 * <details><summary>Element3</summary>
   <p>
   
-  * [SubElement1](#link)
-  * [SubElement2](#link)
-  * [SubElement3](#link)
+  * [*SubElement1*](#link)
+  * [*SubElement2*](#link)
+  * [*SubElement3*](#link)
   
   </p>
 </details>
