@@ -1,4 +1,4 @@
-[test]("#s-p-e-c-i-a-l")
+[test](#s-p-e-c-i-a-l)
 
 a
 
