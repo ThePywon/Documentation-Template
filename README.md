@@ -14,12 +14,10 @@
       * [**Prop1**](#options-prop1)  
       * [**Prop2**](#options-prop2)  
       * [**Prop3**](#options-prop3)
-    * [**Something**](#something)
+    * [**More**](#more)
 
   </p>
 </details>
-
-* [**Element4**](#link)
 
 ---
 
@@ -52,7 +50,7 @@ This is where you describe what your package is about and how you expect users t
 [//]: # (This is where you put in an example of the implementation of the constructor, types included)
 
 ```js
-myPackage(options: Object, Something: Number?)
+myPackage(options: Object, More: Number?)
 ```
 
 [//]: # (This is where you explain with more details each parameter... and their properties in the case of objects)
@@ -152,7 +150,7 @@ const myInstance = new myPackage({ Prop3: "some text" });
 
 
 
-# Something
+# More
 
 ### Description
 
