@@ -1,9 +1,7 @@
 <style>
-  div
-  {
+mark{
     color:red;
-  }
+}
 </style>
-<div>
-  Hello!
-</div>
+
+<mark>what is DataBase</mark>iv>
