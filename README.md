@@ -1,2 +1,3 @@
-# Documentation-Template
-Simple template to use when making .md documentation
+<div style="color:red;">
+  Hello!
+</div>
