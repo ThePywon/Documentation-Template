@@ -4,9 +4,9 @@
 
 # Table of content
 
-* [Element1](#link)
-* [Element2](#link)
-* <details><summary>Element3</summary>
+* [**Element1**](#link)
+* [**Element2**](#link)
+* <details><summary><b>Element3</b></summary>
   <p>
   
   * [*SubElement1*](#link)
@@ -16,4 +16,4 @@
   </p>
 </details>
 
-* [Element4](#link)
+* [**Element4**](#link)
