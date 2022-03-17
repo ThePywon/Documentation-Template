@@ -6,7 +6,7 @@
 
 * [**Element1**](#link)
 * [**Element2**](#link)
-* <details><summary><b>Element3</b></summary>
+<details><summary><b>Element3</b></summary>
   <p>
   
   * [*SubElement1*](#link)
