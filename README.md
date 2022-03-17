@@ -6,8 +6,7 @@
 
 * [Element1](#link)
 * [Element2](#link)
-
-<details><summary>CLICK ME</summary>
+* <details><summary>CLICK ME</summary>
 <p>
 
 #### yes, even hidden code blocks!
