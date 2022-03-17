@@ -11,9 +11,9 @@
   <p>
 
     * [**Options**](#options)
-      * [*Prop1*](#options-prop1)  
-      * [*Prop2*](#options-prop2)  
-      * [*Prop3*](#options-prop3)
+      * [**Prop1**](#options-prop1)  
+      * [**Prop2**](#options-prop2)  
+      * [**Prop3**](#options-prop3)
     * [**Something**](#something)
 
   </p>
