@@ -1,19 +1,179 @@
-# Name
+# Package name
 
-## Small Description
+## Small description of the package goes here
+
+
 
 # Table of content
 
-* [**Element1**](#link)
-* [**Element2**](#link)
-* <details><summary><b>Element3</b></summary>
+* [**How to use?**](#how-to-use)
+* <details><summary><b>Constructor</b></summary>
   <p>
-  
-  * [*SubElement1*](#link)
-  * [*SubElement2*](#link)
-  * [*SubElement3*](#link)
-  
+
+  * <details><summary><a href="#options"><b>Options</b></a></summary>
+  <p>
+    
+    * [*Prop1*](#options-prop1)
+    * [*Prop2*](#options-prop2)
+    * [*Prop3*](#options-prop3)
+
+  </p>
+  </details>
+
+  * [**Something**](#something)
+
   </p>
 </details>
 
 * [**Element4**](#link)
+
+---
+
+
+
+# How to use?
+
+## Import
+
+### Terminal
+
+> `npm i @org/package`
+
+### Node.js
+
+> ```js
+> const myPackage = require("@org/package");
+> ```
+
+## Description
+
+This is where you describe what your package is about and how you expect users to use it.
+
+---
+
+
+
+# Constructor
+
+[//]: # (This is where you put in an example of the implementation of the constructor, types included)
+
+```js
+myPackage(options: Object, Something: Number?)
+```
+
+[//]: # (This is where you explain with more details each parameter... and their properties in the case of objects)
+
+# Options
+
+## Description
+
+This is where you describe what the parameter does and how it works
+
+## Expected Value
+
+[//]: # (this is where you specify the value type/types expected by the parameter)
+
+> Object
+
+## Example
+
+[//]: # (this is where you give a simple code example of the constructor with the parameter)
+
+```js
+const myInstance = new myPackage({
+  Prop1: false, 
+  Prop2: 3, 
+  Prop3: "Hello!" 
+});
+```
+
+
+
+<a id="options-prop1"></a>
+## `Options.Prop1`
+
+### Description
+
+This is where you describe what the property does and how it works
+
+### Expected Value
+
+[//]: # (this is where you specify the value type/types expected by the property)
+
+> Boolean?
+
+### Example
+
+[//]: # (this is where you give a simple code example of the constructor with the property)
+
+```js
+const myInstance = new myPackage({ Prop1: true });
+```
+
+
+
+<a id="options-prop2"></a>
+## `Options.Prop2`
+
+### Description
+
+This is where you describe what the property does and how it works
+
+### Expected Value
+
+[//]: # (this is where you specify the value type/types expected by the property)
+
+> Number?
+
+### Example
+
+[//]: # (this is where you give a simple code example of the constructor with the property)
+
+```js
+const myInstance = new myPackage({ Prop2: 5 });
+```
+
+
+
+<a id="options-prop3"></a>
+## `Options.Prop3`
+
+### Description
+
+This is where you describe what the property does and how it works
+
+### Expected Value
+
+[//]: # (this is where you specify the value type/types expected by the property)
+
+> String?
+
+### Example
+
+[//]: # (this is where you give a simple code example of the constructor with the property)
+
+```js
+const myInstance = new myPackage({ Prop3: "some text" });
+```
+
+
+
+# Something
+
+### Description
+
+This is where you describe what the parameter does and how it works
+
+### Expected Value
+
+[//]: # (this is where you specify the value type/types expected by the parameter)
+
+> Number?
+
+### Example
+
+[//]: # (this is where you give a simple code example of the constructor with the parameter)
+
+```js
+const myInstance = new myPackage({}, 14);
+```
