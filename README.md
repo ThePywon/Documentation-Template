@@ -7,7 +7,7 @@
 # Table of content
 
 * [**How to use?**](#how-to-use)
-* <details><summary><b>Constructor</b></summary>
+* <details><summary><a href="#constructor"><b>Constructor</b></a></summary>
   <p>
 
     * [**Options**](#options)
