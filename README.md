@@ -6,9 +6,15 @@
 
 * [Element1](#link)
 * [Element2](#link)
-* <details>
-<summary>Element3</summary>
+
+<details><summary>CLICK ME</summary>
 <p>
-  ### test
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
 </p>
 </details>
