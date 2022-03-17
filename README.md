@@ -2,8 +2,6 @@
 
 ## Small Description
 
-
-
 # Table of content
 
 * [Element1](#link)
