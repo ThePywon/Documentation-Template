@@ -10,17 +10,17 @@
 * <details><summary><b>Constructor</b></summary>
   <p>
 
-  * <details><summary><a href="#options"><b>Options</b></a></summary>
-  <p>
-    
-    * [*Prop1*](#options-prop1)
-    * [*Prop2*](#options-prop2)
-    * [*Prop3*](#options-prop3)
+    * <details><summary><a href="#options"><b>Options</b></a></summary>
+    <p>
 
-  </p>
-  </details>
+      * [*Prop1*](#options-prop1)
+      * [*Prop2*](#options-prop2)
+      * [*Prop3*](#options-prop3)
 
-  * [**Something**](#something)
+    </p>
+    </details>
+
+    * [**Something**](#something)
 
   </p>
 </details>
