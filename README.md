@@ -176,6 +176,7 @@ const myInstance = new myPackage({}, 14);
 
 
 
+<a id="param3"></a>
 <h1>Param3 <img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px"/></h1>
 
 ## Description
