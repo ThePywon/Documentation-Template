@@ -16,7 +16,7 @@
       * [**Prop3**](#options-prop3)
     * [**Param2**](#param2)
 
-    <ul><li><a href="#param3"><b>Param3</b></a> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/></li></ul>
+    <ul><li><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/></a></li></ul>
   </p>
 </details>
 
