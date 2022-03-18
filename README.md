@@ -14,7 +14,8 @@
       * [**Prop1**](#options-prop1)  
       * [**Prop2**](#options-prop2)  
       * [**Prop3**](#options-prop3)
-    * [**More**](#more)
+    * [**Param2**](#param2)
+    * [**Param3**](#param3)
 
   </p>
 </details>
@@ -24,6 +25,10 @@
 
 
 # How to use?
+
+## Description
+
+This is where you describe what your package is about and how you expect users to use it.
 
 ## Import
 
@@ -37,10 +42,6 @@
 > const myPackage = require("@org/package");
 > ```
 
-## Description
-
-This is where you describe what your package is about and how you expect users to use it.
-
 ---
 
 
@@ -50,7 +51,7 @@ This is where you describe what your package is about and how you expect users t
 [//]: # (This is where you put in an example of the implementation of the constructor, types included)
 
 ```js
-myPackage(options: Object, More: Number?)
+myPackage(options: Object?, Param2: Number?, Param3: String?)
 ```
 
 [//]: # (This is where you explain with more details each parameter... and their properties in the case of objects)
@@ -150,7 +151,7 @@ const myInstance = new myPackage({ Prop3: "some text" });
 
 
 
-# More
+# Param2
 
 ### Description
 
@@ -168,4 +169,27 @@ This is where you describe what the parameter does and how it works
 
 ```js
 const myInstance = new myPackage({}, 14);
+```
+
+
+
+# Param3
+<img href="https://imgur.com/EaW758a.gif" width="32px" height="32px"/>
+
+### Description
+
+This is where you describe what the parameter does and how it works
+
+### Expected Value
+
+[//]: # (this is where you specify the value type/types expected by the parameter)
+
+> String?
+
+### Example
+
+[//]: # (this is where you give a simple code example of the constructor with the parameter)
+
+```js
+const myInstance = new myPackage({}, 27, "happy");
 ```
