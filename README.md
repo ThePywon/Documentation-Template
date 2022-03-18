@@ -153,17 +153,17 @@ const myInstance = new myPackage({ Prop3: "some text" });
 
 # Param2
 
-### Description
+## Description
 
 This is where you describe what the parameter does and how it works
 
-### Expected Value
+## Expected Value
 
 [//]: # (this is where you specify the value type/types expected by the parameter)
 
 > Number?
 
-### Example
+## Example
 
 [//]: # (this is where you give a simple code example of the constructor with the parameter)
 
@@ -173,20 +173,19 @@ const myInstance = new myPackage({}, 14);
 
 
 
-# Param3
-<img src="https://imgur.com/EaW758a.gif" width="32px" height="32px"/>
+<h1><b>Param3</b></h1><img src="https://imgur.com/EaW758a.gif" width="64px" height="64px"/>
 
-### Description
+## Description
 
 This is where you describe what the parameter does and how it works
 
-### Expected Value
+## Expected Value
 
 [//]: # (this is where you specify the value type/types expected by the parameter)
 
 > String?
 
-### Example
+## Example
 
 [//]: # (this is where you give a simple code example of the constructor with the parameter)
 
