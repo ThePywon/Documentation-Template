@@ -16,7 +16,9 @@
       * [**Prop3**](#options-prop3)
     * [**Param2**](#param2)
 
+    // Something new got added in the last update?
     <ul><li><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/></a></li></ul>
+  
   </p>
 </details>
 
