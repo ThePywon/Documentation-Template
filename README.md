@@ -1,4 +1,5 @@
 # Package name
+# Package name
 
 ## Small description of the package goes here
 
@@ -17,9 +18,9 @@
     * [**Param2**](#param2)
 
     [//]: # (Something new got added in the last update?)
-    
-    <ul><li><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/></a></li></ul>
   
+    <ul><li><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"  title="Added in the latest update!"/></a></li></ul>
+
   </p>
 </details>
 
@@ -177,7 +178,7 @@ const myInstance = new myPackage({}, 14);
 
 
 <a id="param3"></a>
-<h1>Param3 <img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px"/></h1>
+<h1>Param3 <img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px" title="Added in the latest update!"/></h1>
 
 ## Description
 
