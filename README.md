@@ -1,5 +1,4 @@
 # Package name
-# Package name
 
 ## Small description of the package goes here
 
