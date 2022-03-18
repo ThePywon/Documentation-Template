@@ -174,7 +174,7 @@ const myInstance = new myPackage({}, 14);
 
 
 # Param3
-<img href="https://imgur.com/EaW758a.gif" width="32px" height="32px"/>
+<img src="https://imgur.com/EaW758a.gif" width="32px" height="32px"/>
 
 ### Description
 
