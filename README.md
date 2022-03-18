@@ -173,7 +173,7 @@ const myInstance = new myPackage({}, 14);
 
 
 
-<h1><b>Param3</b><img src="https://imgur.com/EaW758a.gif" width="32px" height="32px"/></h1>
+<h1><b>Param3</b><img src="https://imgur.com/EaW758a.gif" width="64px" height="64px"/></h1>
 
 ## Description
 
