@@ -15,8 +15,8 @@
       * [**Prop2**](#options-prop2)  
       * [**Prop3**](#options-prop3)
     * [**Param2**](#param2)
-    * [**Param3**](#param3)
 
+    <li><a href="#param3"><b>Param3</b></a></li>
   </p>
 </details>
 
