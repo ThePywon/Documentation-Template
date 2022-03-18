@@ -18,7 +18,7 @@
 
     [//]: # (Something new got added in the last update?)
   
-    <ul><li><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"  title="Added in the latest update!"/></a></li></ul>
+    <ul><li  title="Added in the latest update!"><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/></a></li></ul>
 
   </p>
 </details>
@@ -177,7 +177,7 @@ const myInstance = new myPackage({}, 14);
 
 
 <a id="param3"></a>
-<h1>Param3 <img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px" title="Added in the latest update!"/></h1>
+<h1 title="Added in the latest update!">Param3 <img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px"/></h1>
 
 ## Description
 
@@ -196,3 +196,17 @@ This is where you describe what the parameter does and how it works
 ```js
 const myInstance = new myPackage({}, 27, "happy");
 ```
+
+---
+
+
+
+# Symbols?
+
+<h2><img src="https://imgur.com/ToMgUid.gif"/></h2>
+
+Added in the latest update!
+
+<h2><img src="https://imgur.com/muzdSho.gif"/></h2>
+
+Readonly
