@@ -205,10 +205,10 @@ const myInstance = new myPackage({}, 27, "happy");
 
 # Symbols?
 
-<h2><img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px"/></h2>
+<h2><img src="https://imgur.com/ToMgUid.gif" width="40px" height="22px"/></h2>
 
 Added in the latest update!
 
-<h2><img src="https://imgur.com/muzdSho.gif" width="36px" height="24px"/></h2>
+<h2><img src="https://imgur.com/muzdSho.gif" width="24px" height="16px"/></h2>
 
 Readonly
