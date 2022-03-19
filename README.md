@@ -32,7 +32,7 @@
 
     <ul><li title="Readonly"><a href="#prop2"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
     <ul><li title="Readonly"><a href="#prop3"><b>Prop3</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
-    <ul><li title="Added in the new update!&#13;Readonly"><a href="#prop4"><b>Prop4</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    <ul><li title="Added in the new update!&#13;Readonly"><a href="#prop4"><b>Prop4</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px" title="Added in the new update!"/> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px" title="Readonly"/></a></li></ul>
     
   </p>
 </details>
@@ -312,7 +312,7 @@ This is where you give the output to the above code example
 
 
 <a id="prop4"></a>
-<h1 title="Added in the last update!&#13;Readonly">Prop4 <img src="https://imgur.com/ToMgUid.gif" width="40px" height="22px"/> <img src="https://imgur.com/muzdSho.gif" width="24px" height="16px"/></h1>
+<h1 title="Added in the last update!&#13;Readonly">Prop4 <img src="https://imgur.com/ToMgUid.gif" width="40px" height="22px" title="Added in the last update!"/> <img src="https://imgur.com/muzdSho.gif" width="24px" height="16px" title="Readonly"/></h1>
 
 ## Description
 
