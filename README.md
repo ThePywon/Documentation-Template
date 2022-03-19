@@ -30,9 +30,9 @@
 
     [//]: # (Readonly stuff)
 
-    <ul><li title="Readonly"><a href="prop2"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
-    <ul><li title="Readonly"><a href="prop3"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
-    <ul><li title="Added in the new update!&#13;Readonly"><a href="prop4"><b>Prop2</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    <ul><li title="Readonly"><a href="#prop2"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    <ul><li title="Readonly"><a href="#prop3"><b>Prop3</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    <ul><li title="Added in the new update!&#13;Readonly"><a href="#prop4"><b>Prop4</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
     
   </p>
 </details>
