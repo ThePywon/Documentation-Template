@@ -23,7 +23,7 @@
   </p>
 </details>
 
-* <details><summary><a href="properties">Properties</a></summary>
+* <details><summary><a href="properties"><b>Properties</b></a></summary>
   <p>
 
     * [**Prop1**](#prop1)
