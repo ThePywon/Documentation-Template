@@ -23,6 +23,20 @@
   </p>
 </details>
 
+* <details><summary><a href="properties">Properties</a></summary>
+  <p>
+
+    * [**Prop1**](#prop1)
+
+    [//]: # (Readonly stuff)
+
+    <ul><li title="Readonly"><a href="prop2"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    <ul><li title="Readonly"><a href="prop3"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    <ul><li title="Added in the new update!\nReadonly"><a href="prop4"><b>Prop2</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    
+  </p>
+</details>
+
 * [**Symbols?**](#symbols)
 
 ---
@@ -179,7 +193,7 @@ const myInstance = new myPackage({}, 14);
 
 
 <a id="param3"></a>
-<h1 title="Added in the latest update!">Param3 <img src="https://imgur.com/ToMgUid.gif" width="40px" height="22px"/></h1>
+<h1 title="Added in the latest update!">Param3 <img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px"/></h1>
 
 ## Description
 
@@ -203,12 +217,139 @@ const myInstance = new myPackage({}, 27, "happy");
 
 
 
+# Properties
+
+# Prop1
+
+## Description
+
+This is where you describe what the property does and how it works
+
+## Value
+
+[//]: # (This is where you specify the expected returned value type/types)
+
+```
+Boolean
+```
+
+## Example
+
+### Code:
+
+```js
+// This is where you give a simple code example for the property
+```
+
+### Ouput:
+
+```
+This is where you give the output to the above code example
+```
+
+
+
+<a id="prop2"></a>
+<h1 title="Readonly">Prop2 <img src="https://imgur.com/muzdSho.gif" width="24px" height="16px"/></h1>
+
+## Description
+
+This is where you describe what the property does and how it works
+
+## Value
+
+[//]: # (This is where you specify the expected returned value type/types)
+
+```
+Number
+```
+
+## Example
+
+### Code:
+
+```js
+// This is where you give a simple code example for the property
+```
+
+### Ouput:
+
+```
+This is where you give the output to the above code example
+```
+
+
+
+<a id="prop3"></a>
+<h1 title="Readonly">Prop3 <img src="https://imgur.com/muzdSho.gif" width="24px" height="16px"/></h1>
+
+## Description
+
+This is where you describe what the property does and how it works
+
+## Value
+
+[//]: # (This is where you specify the expected returned value type/types)
+
+```
+String
+```
+
+## Example
+
+### Code:
+
+```js
+// This is where you give a simple code example for the property
+```
+
+### Ouput:
+
+```
+This is where you give the output to the above code example
+```
+
+
+
+<a id="prop4"></a>
+<h1 title="Added in the last update!\nReadonly">Prop4 <img src="https://imgur.com/ToMgUid.gif" width="40px" height="22px"/> <img src="https://imgur.com/muzdSho.gif" width="24px" height="16px"/></h1>
+
+## Description
+
+This is where you describe what the property does and how it works
+
+## Value
+
+[//]: # (This is where you specify the expected returned value type/types)
+
+```
+Object
+```
+
+## Example
+
+### Code:
+
+```js
+// This is where you give a simple code example for the property
+```
+
+### Ouput:
+
+```
+This is where you give the output to the above code example
+```
+
+---
+
+
+
 # Symbols?
 
-<h2><img src="https://imgur.com/ToMgUid.gif" width="40px" height="22px"/></h2>
+<h2><img src="https://imgur.com/ToMgUid.gif" width="60px" height="33px"/></h2>
 
 Added in the latest update!
 
-<h2><img src="https://imgur.com/muzdSho.gif" width="24px" height="16px"/></h2>
+<h2><img src="https://imgur.com/muzdSho.gif" width="36px" height="24px"/></h2>
 
 Readonly
