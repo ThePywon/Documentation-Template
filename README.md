@@ -37,6 +37,16 @@
   </p>
 </details>
 
+* <details><summary><a href="functions"><b>Functions</b></a></summary>
+  <p>
+
+    * [**MyFunc1**](#myfunc1)
+    * [**MyFunc2**](#myfunc2)
+    * [**MyFunc3**](#myfunc3)
+
+  </p>
+</details>
+
 * [**Symbols?**](#symbols)
 
 ---
@@ -338,6 +348,92 @@ Object
 
 ```
 This is where you give the output to the above code example
+```
+
+---
+
+# Functions
+
+# MyFunc1
+
+## Description
+
+This is where you describe what the function does and how it works
+
+## Syntax
+
+```js
+myInstance.myFunc1(param1: String, param2: Number?)
+```
+
+## Example
+
+### Code:
+
+```js
+myInstance.myFunc1("test", 5);
+```
+
+### Output:
+
+```
+Undefined
+```
+
+
+
+# MyFunc2
+
+## Description
+
+This is where you describe what the function does and how it works
+
+## Syntax
+
+```js
+myInstance.myFunc2(param: Boolean?)
+```
+
+## Example
+
+### Code:
+
+```js
+myInstance.myFunc2(false);
+```
+
+### Output:
+
+```
+Undefined
+```
+
+
+
+# MyFunc3
+
+## Description
+
+This is where you describe what the function does and how it works
+
+## Syntax
+
+```js
+myInstance.myFunc3(param: Number?)
+```
+
+## Example
+
+### Code:
+
+```js
+myInstance.myFunc3(69);
+```
+
+### Output:
+
+```
+Undefined
 ```
 
 ---
