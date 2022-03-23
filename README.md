@@ -457,7 +457,7 @@ Undefined
 
 [//]: # (Using @protagonists/emitter package)
 
-<a id="events "></a>
+<a id="events-"></a>
 # Events
 
 This package uses imported properties from [`@protagonists/emitter`](https://www.npmjs.com/package/@protagonists/emitter)  
