@@ -7,7 +7,7 @@
 # Table of content
 
 * [**How to use?**](#how-to-use)
-* <details><summary><a href="#constructor"><b>Constructor</b></a></summary>
+* <a><details><summary><a href="#constructor"><b>Constructor</b></a></summary>
   <p>
 
     * [**Options**](#options)
@@ -21,7 +21,7 @@
     <ul><li  title="Added in the latest update!"><a href="#param3"><b>Param3</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px"/></a></li></ul>
 
   </p>
-</details>
+</details></a>
 
 * <details><summary><a href="properties"><b>Properties</b></a></summary>
   <p>
