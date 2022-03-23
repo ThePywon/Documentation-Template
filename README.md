@@ -449,3 +449,7 @@ Added in the latest update!
 <h2><img src="https://imgur.com/muzdSho.gif" width="36px" height="24px"/></h2>
 
 Readonly
+
+<h2><img src="https://imgur.com/YOGqcV4.gif" width="48px" height="48px"/></h2>
+
+Non-Enumerable
