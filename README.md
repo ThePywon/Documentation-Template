@@ -72,6 +72,11 @@ This is where you describe what your package is about and how you expect users t
 > const myPackage = require("@org/package");
 > ```
 
+## Events
+
+This package assumes basic knowledge of the [`@protagonists/emitter`](https://www.npmjs.com/package/@protagonists/emitter) package.
+All functions and properties imported from the emitter package are not displayed here, in doubt ***GO CHECK OUT THE DOCUMENTATION FOR THE EMITTER PACKAGE!***
+
 ---
 
 
