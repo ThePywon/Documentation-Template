@@ -48,6 +48,15 @@
   </p>
 </details>
 
+* <details><summary><a href="#events"><b>Events</b></a></summary>
+  <p>
+
+    * [**Event1**](#event1)
+    * [**Event2**](#event2)
+
+  </p>
+</details>
+
 * [**Symbols?**](#symbols)
 
 ---
@@ -71,6 +80,8 @@ This is where you describe what your package is about and how you expect users t
 > ```js
 > const myPackage = require("@org/package");
 > ```
+
+[//]: # (Add this if you're using the @protagonists/emitter package)
 
 ## Events
 
@@ -440,6 +451,43 @@ myInstance.myFunc3(69);
 
 ```
 Undefined
+```
+
+---
+
+[//]: # (Using @protagonists/emitter package)
+
+# Events
+
+This package uses imported properties from [`@protagonists/emitter`](https://www.npmjs.com/package/@protagonists/emitter)  
+Check it out first before anything in here!
+
+## Event1
+
+### Description
+
+This is where you describe when and what gets sent
+
+### Example
+
+```js
+myInstance.on("Event1", ()=>{
+  // Your code!
+});
+```
+
+## Event2
+
+### Description
+
+This is where you describe when and what gets sent
+
+### Example
+
+```js
+myInstance.on("Event2", ()=>{
+  // Your code!
+});
 ```
 
 ---
