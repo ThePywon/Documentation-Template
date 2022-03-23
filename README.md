@@ -26,12 +26,12 @@
 * <details><summary><a href="properties"><b>Properties</b></a></summary>
   <p>
 
-    * [**Prop1**](#prop1)
-
-    [//]: # (Readonly stuff)
-
+    <ul><li title="Non-Enumerable"><a href="#prop1"><b>Prop1</b> <img src="https://imgur.com/YOGqcV4.gif" width="16px" height="16px"/></a></li></ul>
+    
     <ul><li title="Readonly"><a href="#prop2"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    
     <ul><li title="Readonly"><a href="#prop3"><b>Prop3</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
+    
     <ul><li title="Added in the new update!&#13;Readonly"><a href="#prop4"><b>Prop4</b> <img src="https://imgur.com/ToMgUid.gif" width="20px" height="11px" title="Added in the new update!"/> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px" title="Readonly"/></a></li></ul>
     
   </p>
@@ -42,7 +42,8 @@
 
     * [**MyFunc1**](#myfunc1)
     * [**MyFunc2**](#myfunc2)
-    * [**MyFunc3**](#myfunc3)
+ 
+    <ul><li title="Non-Enumerable"><a href="myfunc3"><b>MyFunc3</b> <img src="https://imgur.com/YOGqcV4.gif" width="16px" height="16px"/></a></li></ul>
 
   </p>
 </details>
