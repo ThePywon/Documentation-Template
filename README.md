@@ -48,7 +48,7 @@
   </p>
 </details>
 
-* <details><summary><a href="#events-"><b>Events</b></a></summary>
+* <details><summary><a href="#events-1"><b>Events</b></a></summary>
   <p>
 
     * [**Event1**](#event1)
@@ -455,9 +455,10 @@ Undefined
 
 ---
 
+
+
 [//]: # (Using @protagonists/emitter package)
 
-<a id="events-"></a>
 # Events
 
 This package uses imported properties from [`@protagonists/emitter`](https://www.npmjs.com/package/@protagonists/emitter)  
