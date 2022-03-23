@@ -26,7 +26,7 @@
 * <details><summary><a href="properties"><b>Properties</b></a></summary>
   <p>
 
-    <ul><li title="Non-Enumerable"><a href="#prop1"><b>Prop1</b> <img src="https://imgur.com/YOGqcV4.gif" width="16px" height="16px"/></a></li></ul>
+    <ul><li title="Non-Enumerable"><a href="#prop1"><b>Prop1</b> <img src="https://imgur.com/oSU7YNt.gif" width="14px" height="12px"/></a></li></ul>
     
     <ul><li title="Readonly"><a href="#prop2"><b>Prop2</b> <img src="https://imgur.com/muzdSho.gif" width="12px" height="8px"/></a></li></ul>
     
@@ -43,7 +43,7 @@
     * [**MyFunc1**](#myfunc1)
     * [**MyFunc2**](#myfunc2)
  
-    <ul><li title="Non-Enumerable"><a href="myfunc3"><b>MyFunc3</b> <img src="https://imgur.com/YOGqcV4.gif" width="16px" height="16px"/></a></li></ul>
+    <ul><li title="Non-Enumerable"><a href="myfunc3"><b>MyFunc3</b> <img src="https://imgur.com/oSU7YNt.gif" width="14px" height="12px"/></a></li></ul>
 
   </p>
 </details>
@@ -451,6 +451,6 @@ Added in the latest update!
 
 Readonly
 
-<h2><img src="https://imgur.com/YOGqcV4.gif" width="48px" height="48px"/></h2>
+<h2><img src="https://imgur.com/oSU7YNt.gif" width="42px" height="36px"/></h2>
 
 Non-Enumerable
