@@ -23,7 +23,7 @@
   </p>
 </details>
 
-* <details><summary><a href="properties"><b>Properties</b></a></summary>
+* <details><summary><a href="#properties"><b>Properties</b></a></summary>
   <p>
 
     <ul><li title="Non-Enumerable"><a href="#prop1"><b>Prop1</b> <img src="https://imgur.com/oSU7YNt.gif" width="14px" height="12px"/></a></li></ul>
@@ -37,7 +37,7 @@
   </p>
 </details>
 
-* <details><summary><a href="functions"><b>Functions</b></a></summary>
+* <details><summary><a href="#functions"><b>Functions</b></a></summary>
   <p>
 
     * [**MyFunc1**](#myfunc1)
