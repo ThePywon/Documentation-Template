@@ -1,11 +1,16 @@
 <div id="top" align="center">
 <h1>Package Name</h1>
-<h2>Small description of the package goes here</h2>
  <a href="https://npmjs.com/package/@org/package-name"><img src="https://img.shields.io/npm/v/@org/package-name" alt="npm version"/></a>
 <a href="https://npmjs.com/package/@org/package-name"><img src="https://img.shields.io/npm/dt/@org/package-name" alt="npm downloads"/></a>
 <a href="https://discord.gg/invite"><imgs src="https://img.shields.io/discord/serverid?logo=discord&logoColor=white" alt="discord server"/></a>
 <a href="https://github.com/user/repo"><img src="https://img.shields.io/github/last-commit/user/repo" alt="last commit"/></a>
 </div>
+
+
+
+# About
+
+Some description of the package goes here
 
 
 
