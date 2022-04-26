@@ -1,4 +1,4 @@
-# Package name
+<h1 text-align="center">Package Name</h1>
 
 ## Small description of the package goes here
 
