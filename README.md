@@ -2,7 +2,7 @@
 
 ## Small description of the package goes here
 
-<a href="https://github.com/ThePywon/Documentation-Template"><img src="https://img.shields.io/github/downloads/ProtagonistsWasTaken/crypto_versus/total?logo=github"/></a>
+<a href="https://npmjs.com/package/@org/package-name"><img src="https://img.shields.io/npm/dt/@org/package-name"/></a>
 
 
 
