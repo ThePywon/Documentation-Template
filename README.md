@@ -2,7 +2,8 @@
 
 ## Small description of the package goes here
 
-<a href="https://npmjs.com/package/@org/package-name"><img src="https://img.shields.io/npm/dt/@org/package-name"/></a>
+<a href="https://npmjs.com/package/@org/package-name"><img src="https://img.shields.io/npm/dt/@org/package-name" alt="npm downloads"/></a>
+<a href="https://npmjs.com/package/@org/package-name"><img src="https://img.shields.io/npm/v/@org/package-name" alt="npm version"/></a>
 
 
 
