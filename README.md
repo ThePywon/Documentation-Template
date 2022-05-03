@@ -1,6 +1,6 @@
 <div id="top" align="center">
 
-# ![coerce](https://api.imgbun.com/png?key=9dee0db487cd9383d7c0635dd81f671b&text=coerce&color=00ff00&size=20&format=raw)
+# ![coerce](https://api.imgbun.com/png?key=9dee0db487cd9383d7c0635dd81f671b&text=coerce&color=00ff00&size=32&format=raw)
  
 [![npm version](https://img.shields.io/npm/v/@org/package-name)](https://npmjs.com/package/@org/package-name)
 [![npm downloads](https://img.shields.io/npm/dt/@org/package-name)](https://npmjs.com/package/@org/package-name)
