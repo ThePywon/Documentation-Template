@@ -50,7 +50,7 @@ Some description of the package goes here
   </p>
 </details>
 
-* <details><summary><a href="#functions"><b>Functions</b></a></summary>
+* <details><summary><a href="#methods"><b>Methods</b></a></summary>
   <p>
 
     * [**MyFunc1**](#myfunc1)
@@ -61,11 +61,11 @@ Some description of the package goes here
   </p>
 </details>
 
-* <details><summary><a href="#events-1"><b>Events</b></a></summary>
+* <details><summary><a href="#classes"><b>Classes</b></a></summary>
   <p>
 
-    * [**Event1**](#event1)
-    * [**Event2**](#event2)
+    * [**Class1**](#class1)
+    * [**Class2**](#class2)
 
   </p>
 </details>
@@ -86,20 +86,15 @@ This is where you describe what your package is about and how you expect users t
 
 ### Terminal
 
-> `npm i @org/package`
+> ```
+> npm install @org/package
+> ```
 
 ### Node.js
 
 > ```js
 > const myPackage = require("@org/package");
 > ```
-
-[//]: # (Add this if you're using the @protagonists/emitter package)
-
-## Events
-
-This package assumes basic knowledge of the [`@protagonists/emitter`](https://www.npmjs.com/package/@protagonists/emitter) package.  
-All functions and properties imported from the emitter package are not displayed here, in doubt ***GO CHECK OUT THE DOCUMENTATION FOR THE EMITTER PACKAGE!***
 
 ---
 
@@ -110,7 +105,7 @@ All functions and properties imported from the emitter package are not displayed
 [//]: # (This is where you put in an example of the implementation of the constructor, types included)
 
 ```js
-myPackage(options: Object?, Param2: Number?, Param3: String?)
+myPackage(options: Object?, Param2: ?[Number](https://javascript.info/number), Param3: ?[String](https://javascript.info/string))
 ```
 
 [//]: # (This is where you explain with more details each parameter... and their properties in the case of objects)
@@ -470,42 +465,11 @@ Undefined
 
 
 
-[//]: # (Using @protagonists/emitter package)
+# Classes
 
-# Events
+## [Class1](link-to-the-md-page)
 
-This package uses imported properties from [`@protagonists/emitter`](https://www.npmjs.com/package/@protagonists/emitter)  
-Check it out first before anything in here!
-
-## Event1
-
-### Description
-
-This is where you describe when and what gets sent
-
-### Example
-
-```js
-myInstance.on("Event1", ()=>{
-  // Your code!
-});
-```
-
-## Event2
-
-### Description
-
-This is where you describe when and what gets sent
-
-### Example
-
-```js
-myInstance.on("Event2", ()=>{
-  // Your code!
-});
-```
-
----
+## [Class2](link-to-the-md-page)
 
 
 
