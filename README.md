@@ -102,7 +102,7 @@ This is where you describe what your package is about and how you expect users t
 [//]: # (This is where you put in an example of the implementation of the constructor, types included)
 
 ```js
-myPackage(options: Object?, Param2: ?[Number](https://javascript.info/number), Param3: ?[String](https://javascript.info/string))
+myPackage(options: ?Object, Param2: ?Number, Param3: ?String)
 ```
 
 [//]: # (This is where you explain with more details each parameter... and their properties in the case of objects)
@@ -123,9 +123,9 @@ This is where you describe what the parameter does and how it works
 
 ```js
 {
-  prop1, // Boolean
-  prop2, // Number
-  prop3  // String
+  prop1, // ?Boolean
+  prop2, // ?Number
+  prop3  // ?String
 }
 ```
 
@@ -326,7 +326,7 @@ This is where you describe what the function does and how it works
 ## Syntax
 
 ```js
-myInstance.myFunc1(param1: String, param2: Number?)
+myInstance.myFunc1(param1: String, param2: ?Number)
 ```
 
 ## Example
@@ -354,7 +354,7 @@ This is where you describe what the function does and how it works
 ## Syntax
 
 ```js
-myInstance.myFunc2(param: Boolean?)
+myInstance.myFunc2(param: ?Boolean)
 ```
 
 ## Example
@@ -382,7 +382,7 @@ This is where you describe what the function does and how it works
 ## Syntax
 
 ```js
-myInstance.myFunc3(param: Number?)
+myInstance.myFunc3(param: ?Number)
 ```
 
 ## Example
