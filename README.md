@@ -377,7 +377,7 @@ This is where you give the output to the above code example
 
 ---
 
-# Functions
+# Methods
 
 # MyFunc1
 
